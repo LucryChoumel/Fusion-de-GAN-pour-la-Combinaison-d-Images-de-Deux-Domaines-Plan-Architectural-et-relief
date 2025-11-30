@@ -8,13 +8,21 @@ Les Réseaux Générateurs Antagonistes (GAN) sont des modèles de réseaux de n
 Fonctionnalités:
 
 Fusion bidirectionnelle d'images entre les plans architecturaux et les reliefs géographiques.
+
 Utilisation de deux GAN pour la gestion de la fusion entre les deux domaines.
+
 Entraînement du modèle avec des fonctions de perte adversaires et d'autres méthodes pour garantir la qualité des images fusionnées.
+
 Prétraitement des données, y compris le chargement des images, l'augmentation des données et la préparation des ensembles de données d'entraînement et de test.
+
 Enregistrement des points de contrôle du modèle pour la reprise de l'entraînement et les tests ultérieurs.
+
 Évaluation des performances du modèle à l'aide d'un ensemble de données de test et visualisation des résultats.
+
 .........
+
 Utilisation
 
 Auteur
+
 Ce projet est développé par [Lucry]
